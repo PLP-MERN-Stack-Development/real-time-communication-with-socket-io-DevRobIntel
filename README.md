@@ -48,20 +48,22 @@ Build a **real-time chat application** using **Socket.io** that demonstrates **b
 - Optimized Socket.io for performance (using namespaces, rooms)
 - Implemented message delivery acknowledgment
 - Added message search functionality
-- Ensured the application works well on both desktop and mobile devices## SCREENSHOTS
+- Ensured the application works well on both desktop and mobile devices
 
-  ![1761860264775](README PHOTOS/1761860264775.png)
+  ## SCREENSHOTS
 
-  ![1761860299702](README PHOTOS/1761860299702.png)
+  ![1761861070806](image/README/1761861070806.png)
 
-  ![1761860319844](README PHOTOS/1761860319844.png)
+  ![1761861092162](image/README/1761861092162.png)
 
-  ![1761860342320](README PHOTOS/1761860342320.png)
+  ![1761861106040](image/README/1761861106040.png)
 
-  ![1761860366784](README PHOTOS/1761860366784.png)
+  ![1761861121826](image/README/1761861121826.png)
 
-  ![1761860382428](README PHOTOS/1761860382428.png)
+  ![1761861138475](image/README/1761861138475.png)
 
-  ![1761860399876](README PHOTOS/1761860399876.png)
+  ![1761861152894](image/README/1761861152894.png)
 
-  ![1761860413889](README PHOTOS/1761860413889.png)
+  ![1761861168139](image/README/1761861168139.png)
+
+  ![1761861184431](image/README/1761861184431.png)
